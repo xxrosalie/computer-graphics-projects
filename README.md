@@ -32,6 +32,18 @@ Program 4 shows rendering with textures now. It also shows the use of transparen
 - HTML
 - JSON
 
+## Challenges
+- Having to complete large coding projects in a language I never learned
+- Learning computer graphics concepts at a fast pace and having to implement them immediately
+- Understanding the computer graphics concepts
+- The math behind computer graphics
+
+## Accomplishments
+- Learned so much more about computer graphics: how it works, how to code it
+- Discovered that I love turning logic into a visual image with code
+- Enhanced my problem-solving skills
+- Practiced coding in JavaScript
+
 
 
 
