@@ -1,4 +1,4 @@
-# computer-graphics-projects
+# Computer Graphics Projects
 For my computer graphics class, we had to complete four coding projects where each project kept building on top of eachother when it comes to difficulty and use of different concepts. I used concepts such as raytracing, rasterization, shaders, textures, and transformations.
 
 ## Program 1
