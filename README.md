@@ -30,7 +30,7 @@ Program 4 shows rendering with textures now. It also shows the use of transparen
 Program 5 is still in progress, but I am creating the game battlezone in JavaScript, using the techniques I learned in program 1-4.
 
 First look at a part of the implemented project:
-<img width="887" height="627" alt="image" src="https://github.com/user-attachments/assets/8a961867-5390-4ac5-972d-6b0bc384a59b" />
+<img width="587" height="327" alt="image" src="https://github.com/user-attachments/assets/8a961867-5390-4ac5-972d-6b0bc384a59b" />
 
 
 ## Technologies Used
