@@ -31,7 +31,7 @@ Program 5 is a video game. I made the game battlezone. It is an old arcade game,
 The game shows your score in the top left corner. It also shows a radar in the top right. This radar shows dots of where enemy tanks are if they are in your view.   
 <img width="597" height="325" alt="regview" src="https://github.com/user-attachments/assets/8cffe36f-d82d-42a2-a2cf-2803d5bbb91a" />
 
-I also made a second view of the game where the elements of the game are made with OBJ models instead of vector graphics. As of right now, the models are plainly colored, but once I have more time, I want to put in the textures that I made for them. My goal was to make it candyland, as I made hot pink tanks, snowy pink mountains, and lillipops as obstacles, but right now that is not fully visible. I will show what the game looks like right now and pictures of the models that I made.     
+I also made a second view of the game where the elements of the game are made with OBJ models instead of vector graphics. As of right now, the models are plainly colored, but once I have more time, I want to put in the textures that I made for them. My goal was to make it candyland, as I made hot pink tanks, snowy pink mountains, and lillipops as obstacles, but right now that is not fully visible. I will show what the game looks like right now and pictures of the models that I made. The models were made with Blockbench.        
 <img width="685" height="382" alt="objview" src="https://github.com/user-attachments/assets/b338304a-9fc5-481a-85d7-9abd23bacf47" />
 
 <img width="560" height="362" alt="image" src="https://github.com/user-attachments/assets/f8b7f411-0f28-4320-a672-c2d1e2011c8b" />
@@ -43,6 +43,7 @@ I also made a second view of the game where the elements of the game are made wi
 - VSCode
 - HTML
 - JSON
+- Blockbench
 
 ## Challenges
 - Having to complete large coding projects in a language I never learned
