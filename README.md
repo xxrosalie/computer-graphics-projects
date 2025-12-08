@@ -27,11 +27,15 @@ Program 4 shows rendering with textures now. It also shows the use of transparen
 <img width="360" height="273" alt="image" src="https://github.com/user-attachments/assets/e519ce3c-19cb-4cbf-9b63-0e0d9886b700" />
 
 ## Program 5
-Program 5 is still in progress, but I am creating the game battlezone in JavaScript, using the techniques I learned in program 1-4.
+Program 5 is a video game. I made the game battlezone. It is an old arcade game, which is why I made it with vector graphics. In the game, you must press the arrow buttons to move yourself. You are a tank. You can move around the battlefield which has mountains in the back and obstacles throughout the field. You cannot go through obstacles and your bullets also cannot. There are enemy tanks also walking throughout the battlefield. You are supposed to shoot them (by pressing the spacebar) before they shoot you. Every time you hit an enemy tank, it gets killed, you get 250 points added to your score, and a new enemy tank spawns somewhere randomly on the battlefield. Every 5 seconds there is a chance that an enemy tank will face you and shoot perfectly at you, so you must move to dodge the bullet. The game and score continues until you die. You die by getting hit by an enemy tank. If you get hit once, your score goes back down to 0 and you are reset at the spot where the initial game began. 
+<img width="597" height="325" alt="regview" src="https://github.com/user-attachments/assets/8cffe36f-d82d-42a2-a2cf-2803d5bbb91a" />
 
-First look at a part of the implemented project:     
-<img width="587" height="327" alt="image" src="https://github.com/user-attachments/assets/8a961867-5390-4ac5-972d-6b0bc384a59b" />
+I also made a second view of the game where the elements of the game are made with OBJ models instead of vector graphics. As of right now, the models are plainly colored, but once I have more time, I want to put in the textures that I made for them. My goal was to make it candyland, as I made hot pink tanks, snowy pink mountains, and lillipops as obstacles, but right now that is not fully visible. I will show what the game looks like right now and pictures of the models that I made.
+<img width="685" height="382" alt="objview" src="https://github.com/user-attachments/assets/b338304a-9fc5-481a-85d7-9abd23bacf47" />
 
+<img width="560" height="162" alt="image" src="https://github.com/user-attachments/assets/f8b7f411-0f28-4320-a672-c2d1e2011c8b" />
+<img width="338" height="440" alt="image" src="https://github.com/user-attachments/assets/a284ccef-4232-4749-8f9d-01ad9063210a" />
+<img width="556" height="252" alt="image" src="https://github.com/user-attachments/assets/4d192366-2622-4140-8333-0fcec9324b96" />
 
 ## Technologies Used
 - JavaScript
