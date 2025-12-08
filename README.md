@@ -34,8 +34,8 @@ I also made a second view of the game where the elements of the game are made wi
 <img width="685" height="382" alt="objview" src="https://github.com/user-attachments/assets/b338304a-9fc5-481a-85d7-9abd23bacf47" />
 
 <img width="560" height="362" alt="image" src="https://github.com/user-attachments/assets/f8b7f411-0f28-4320-a672-c2d1e2011c8b" />
-<img width="338" height="440" alt="image" src="https://github.com/user-attachments/assets/a284ccef-4232-4749-8f9d-01ad9063210a" />
-<img width="556" height="252" alt="image" src="https://github.com/user-attachments/assets/4d192366-2622-4140-8333-0fcec9324b96" />
+<img width="238" height="450" alt="image" src="https://github.com/user-attachments/assets/a284ccef-4232-4749-8f9d-01ad9063210a" />
+<img width="556" height="352" alt="image" src="https://github.com/user-attachments/assets/4d192366-2622-4140-8333-0fcec9324b96" />
 
 ## Technologies Used
 - JavaScript
